@@ -1,0 +1,27 @@
+{
+  "name": "ng-html-util",
+  "version": "1.0.0",
+  "description": "Simple HTML DOM manipulation library",
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/common": "^4.0.3",
+    "@angular/compiler": "^4.0.3",
+    "@angular/compiler-cli": "^4.0.3",
+    "@angular/core": "^4.0.3",
+    "@angular/platform-browser": "^4.0.3",
+    "rollup": "^0.41.6",
+    "rxjs": "^5.3.0",
+    "typescript": "^2.3.0",
+    "zone.js": "^0.8.5"
+  },
+  "peerDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Kiss <ert78gb@gmil.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ert78gb/ng-html-util.git"
+  }
+}
