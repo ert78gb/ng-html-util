@@ -1,8 +1,5 @@
 /**
  * Calculate the top left position of the targetElement
- * @param {Document} document
- * @param {HTMLElement} targetElement
- * @returns {{top: number, left: number}}
  */
 export function extractElementPosition(document: Document, targetElement: HTMLElement): { top: number, left: number } {
 
