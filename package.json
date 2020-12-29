@@ -9,23 +9,19 @@
   "description": "Simple HTML DOM manipulation library",
   "dependencies": {},
   "devDependencies": {
-    "@angular/common": "^8.2.4",
-    "@angular/compiler": "^8.2.4",
-    "@angular/compiler-cli": "^8.2.4",
-    "@angular/core": "^8.2.4",
-    "@angular/platform-browser": "^8.2.4",
-    "ng-packagr": "^5.5.0",
-    "rxjs": "^6.5.2",
-    "typescript": "3.6.2",
-    "zone.js": "^0.10.2"
+    "@angular/common": "^11.0.5",
+    "@angular/compiler": "^11.0.5",
+    "@angular/compiler-cli": "^11.0.5",
+    "@angular/core": "^11.0.5",
+    "@angular/platform-browser": "^11.0.5",
+    "ng-packagr": "^11.0.3",
+    "rxjs": "^6.6.3",
+    "typescript": "4.0.5",
+    "zone.js": "^0.11.3"
   },
   "ngPackage": {
     "lib": {
-      "entryFile": "public_api.ts",
-      "languageLevel": [
-        "dom",
-        "es2015"
-      ]
+      "entryFile": "src/public_api.ts"
     },
     "dest": "./dist"
   },
