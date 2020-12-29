@@ -11,4 +11,4 @@ This package contains a few helper functions to manipulate the DOM.
 **extractElementPosition** Calculate the HTML element top left position
 
 # Remarks
-The version number upgraded to 2.x because the build creation changed.
+The version number upgraded to 3.x because the build process changed.
